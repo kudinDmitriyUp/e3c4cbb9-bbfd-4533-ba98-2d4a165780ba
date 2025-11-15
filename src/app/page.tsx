@@ -99,7 +99,7 @@ export default function Home() {
             {
               title: "Future Pilot",
               description: "Currently pursuing pilot license with dedication and precision, preparing for a career in aviation with hands-on training",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225568412-bd9z6y4a.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225912387-sfx22ely.jpg",
               imageAlt: "Pilot training progress"
             },
             {
