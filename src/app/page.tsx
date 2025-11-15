@@ -87,7 +87,7 @@ export default function Home() {
             {
               title: "Volleyball Excellence",
               description: "Standout player at Torrey Pines High School, combining teamwork, athleticism, and competitive spirit to excel on the court",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225567209-l4l12pu5.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763225821766-6dewzw3w.jpg",
               imageAlt: "Volleyball championship moment"
             },
             {
